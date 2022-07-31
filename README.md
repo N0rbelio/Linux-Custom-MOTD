@@ -2,8 +2,8 @@
 Linux MOTD for debian based distros
 
 Programs needed to work:
-  sudo apt install lolcat
-  sudo apt install figlet
+->  sudo apt install lolcat
+->  sudo apt install figlet
 
 To use the custom motd you must place it in /etc/profile.d, you may need also to disable the orginal motd
 To do that open the terminal and run these commands
